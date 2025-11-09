@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+#-e.
+#To trigger the setup.py file
